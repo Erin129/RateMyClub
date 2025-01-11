@@ -5,10 +5,11 @@ Julio Arboleda, Erin Hargrave, Natalie Poche, Graciela Strand
 
 ## Table of Contents
 
-- [Mission Statement](#Mission)
+- [Mission Statement](#mission-statement)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Stretch Goals](#stretch-goals)
 
 ## Mission Statement
 
@@ -112,3 +113,13 @@ python app.py
 9. Thumbs up and flagging functionality.
 10. Form to submit new student reviews.
 11. Different page views for students, club presidents, and admin.
+
+## Stretch Goals
+
+Components that could be  implemented in further development:
+   1. Expanding the club directory to include a larger/complete percentage of UF clubs.
+   2. Creating a form to request the addition of a new club to the directory.
+   3. Including a page in admin view that lists all flagged reviews for revision and easier access.
+   4. Expanding the site to more universities.
+   5. Adding an alphabet  scroll bar on the side.
+   6. Allowing students to ‘bookmark’/save clubs and view on a separate page.
