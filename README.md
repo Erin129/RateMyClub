@@ -1,17 +1,24 @@
-# JENGa Stack
-# Project Title: ratemyclub
+# RateMyClub
+## Members
+
+Julio Arboleda, Erin Hargrave, Natalie Poche, Graciela Strand
 
 ## Table of Contents
 
+- [Mission Statement](#Mission)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+
+## Mission Statement
+
+Our project’s challenge is incoming college students struggling to find a club that matches their criteria. They often find themselves overwhelmed with the options or unable to determine what differentiates the various clubs on campus. Our application will be a resource that addresses this concern. Students will be able to observe authentic statements from current students describing their clubs and giving honest feedback, and then make educated decisions about the type of club they'd like to join. This is a problem every incoming freshman faces and can have a big impact on the rest of their college experience. Through our interface, we aim to provide valuable insight into club experiences and help struggling college students find the club best suited for them.
 
 ## Installation
 
 ### Prerequisites
 
-Before beginning with the Installtion steps, ensure that the following requirements have been met:
+Before beginning with the Installation steps, ensure that the following requirements have been met:
 
 - You have installed Python 3.x on your system. This is for backend development.
 - You have installed [Node.js](https://nodejs.org/). This is for frontend development.
@@ -94,8 +101,14 @@ python app.py
 
 ## Features
 
-1. Rating for each club.
-2. Brief synopsis for each club.
-3. Location for each club.
-4. Time schedule for each club.
-5. TBD
+1. User login/authentification.
+2. Creating and Editing user profiles.
+3. Home page that displays a list of clubs.
+4. Search and filter capabilities.
+5. Unique club pages for each club.
+6. Student page to view past submitted club reviews.
+7. Display of average overall ratings for each club.
+8. Displays a list of student reviews.
+9. Thumbs up and flagging functionality.
+10. Form to submit new student reviews.
+11. Different page views for students, club presidents, and admin.
